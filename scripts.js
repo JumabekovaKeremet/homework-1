@@ -3,8 +3,14 @@ let v= +prompt("What is V");
 let sum= m * v;
 
 let t= +prompt("What is T");
-let N= +prompt("What is N");
+let n= +prompt("What is N");
 let sum= t * N;
 
-console.log(`M mutliplied by V is egual to ?${sum}`);
-console.log(`T mutliplied by N is egual to ?${sum}`);
+let l= +prompt("What is T");
+let r= +prompt("What is N");
+let t= +prompt("what is T")
+let sum= l ^ * r * t;
+
+console.log(`set the value of M and V and output the pressure${sum}`);
+console.log(`set the value of T and N and the circle will be calculated${sum}`);
+console.log(`set the value of L, R and T will be calculated by Joule-Lenz${sum}`);
